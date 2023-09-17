@@ -6,6 +6,7 @@
 
 ![ Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrontx&show_icons=true&theme=radical)
 
+
 ## Tecnologias 
 
 <div style="display: inline_block"><br>
@@ -30,3 +31,5 @@
 🔗 Se você está procurando um estudante de Ciência da Computação motivado, com interesse em ciência de dados e análise de dados, ou se tem alguma oportunidade relacionada à área de ciência de dados, fico feliz em ouvir e discutir como posso contribuir. Vamos juntos nessa jornada de descoberta e inovação!
 
 #CientistaDeDados #AnáliseDeDados #Python #MachineLearning #Estatística
+
+
