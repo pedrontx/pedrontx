@@ -1,16 +1,9 @@
 ### Olá eu sou o pedro 👋 
 
-👨‍💻 Estudante de Ciência da Computação | Apaixonado por Análise de Dados e Ciência de Dados | Buscando tornar-se um Cientista de Dados 👨‍🔬
+Estudante de Ciência da Computação | Apaixonado por Análise de Dados e Ciência de Dados 
+Durante o meu estágio na ANAC, adquiri habilidades analíticas significativas e desenvolvi expertise em programação, análise de dados e ciência de dados. Minha experiência inclui o uso intensivo de diversas linguagens de programação, com ênfase especial em Python, que é uma linguagem na qual tenho maior proficiência. Além disso, tenho conhecimento sólido em JavaScript, C e C++. Destaco também minha experiência em lidar com bancos de dados relacionais. Sou capaz de criar um banco de dados desde a concepção até sua implementação para o usuário final. Possuo conhecimento em linguagens de consulta a bancos de dados relacionais, como SQL, Postgresql e MySQL.
+Essas experiências e habilidades melhoraram significativamente para o meu desenvolvimento profissional, permitindo-me abordar desafios complexos e fornecer soluções eficientes no campo da análise de dados e programação. Estou confiante de que essas competências serão benéficas em qualquer ambiente profissional em que eu possa contribuir.
 
-🔍 Sou um estudante de Ciência da Computação com um profundo interesse em análise de dados e ciência de dados. Atualmente, estou ampliando meus conhecimentos por meio de cursos adicionais em ciência de dados, com o objetivo de me tornar um Cientista de Dados.
-
-💡 Meu interesse em ciência de dados foi despertado durante meu estágio atual, onde tive a oportunidade de trabalhar com dados e observar o impacto que eles podem ter na tomada de decisões. Essa experiência me mostrou o poder e o potencial da análise de dados para resolver problemas complexos e o sucesso das empresas.
-
-📚 Além da minha formação acadêmica em Ciência da Computação, estou dedicando meu tempo livre para aprofundar meus conhecimentos em ciência de dados. Estou realizando cursos autônomos e acompanhados de projetos práticos, nos quais posso aplicar técnicas de análise de dados em conjuntos de dados reais.
-
-🌟 Meu objetivo é utilizar minha paixão pela análise de dados e minha formação em Ciência da Computação para me tornar um Cientista de Dados. Estou animado para explorar Técnicas de Aprendizado de Máquina, modelagem estatística e visualização de dados, a fim de extrair insights valiosos e auxiliar na tomada de decisões fundamentadas.
-
-🔗 Se você está procurando um estudante de Ciência da Computação motivado, com interesse em ciência de dados e análise de dados, ou se tem alguma oportunidade relacionada à área de ciência de dados, fico feliz em ouvir e discutir como posso contribuir. Vamos juntos nessa jornada de descoberta e inovação!
 
 #CientistaDeDados #AnáliseDeDados #Python #MachineLearning #Estatística
 
